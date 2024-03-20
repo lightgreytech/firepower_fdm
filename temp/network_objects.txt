@@ -1,0 +1,5 @@
+name;subType;value;description
+IPv4-Private-All-RFC1918;GROUP;IPv4-Private-10.0.0.0-8,IPv4-Private-172.16.0.0-12,IPv4-Private-192.168.0.0-16,;No Description;networkobjectgroup;2c928384-9952-11ec-be24-e5d58bbda547;True
+IPv4-Private-10.0.0.0-8;NETWORK;10.0.0.0/8;No Description;networkobject;2c733bb1-9952-11ec-be24-4514b2b84a54;True
+IPv4-Private-172.16.0.0-12;NETWORK;172.16.0.0/12;No Description;networkobject;2c7a67a2-9952-11ec-be24-bddea998f5fb;True
+IPv4-Private-192.168.0.0-16;NETWORK;192.168.0.0/16;No Description;networkobject;2c82f323-9952-11ec-be24-2171b28ef6af;True

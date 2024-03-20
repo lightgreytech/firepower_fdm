@@ -1,8 +1,8 @@
 ---
 devices:
   - hostname: FDM_DEVICE
-    ipaddr:   192.168.100.1
+    ipaddr:   10.10.20.65
     port: 443
     username: admin
-    password: Cisco12*
-    version: 4
+    password: Sbxftd1234!
+    version: 5
