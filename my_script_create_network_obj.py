@@ -10,6 +10,7 @@ from crayons import blue, green, white, red, yellow,magenta, cyan
 
 profile_filename="profile_ftd.yml"
 new_auth_token=['none']#as global variable in order to make it easily updatable
+existing_name_list=[] # List of existing network objects names into FTD
 
 # thirdly let's defined some base function
 
